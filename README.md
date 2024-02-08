@@ -1,4 +1,4 @@
-# client_iproject_nba_dika
+# NBA MVP 2023 Stats Client
 
 ## Deployed Url
 
@@ -6,24 +6,23 @@
 https://nba-stat-ip-dika.web.app/
 ```
 
-This Project is for comparing NBA MVP candidate 2022/2023 Player Stats (Total 9 Players)
+This project compares NBA MVP candidate 2022/2023 player stats (9 players in total).
 
-I use Server Side and Client Side for this project, you must be login to see all of the player' stats and subscribed (its a prequisite task from my last bootcamp).
+I utilized both server-side and client-side programming for this project. Users must log in to view all player stats and subscribe (which is a prerequisite from my last bootcamp).
 
-for the payment gateway i use sandbox midtrans, if you make a new account, you need to subscribed first, i refer to this link for completing the payment gateway 
+For the payment gateway, I used the Midtrans sandbox. If you create a new account, you need to subscribe first. You can refer to this link for completing the payment gateway setup:
 
 ```sh
 https://docs.midtrans.com/docs/testing-payment-on-sandbox
 ```
 
-but if you wanna check without having to register, i can give you the existing account which is:
-
+However, if you want to check without registering, I can provide you with existing account credentials:
 ```sh
 Email : test1234@gmail.com
 Pass : test1234
 ```
 
-sometimes the webpage wont appear as should be, u can use this link, to login to the website
+Sometimes the webpage may not appear as intended. In that case, you can use this link to log in to the website:
 
 ```
 https://nba-stat-ip-dika.web.app/login
